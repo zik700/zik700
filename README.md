@@ -29,7 +29,7 @@
 - 💼  I'm aspiring to a career as a **Software Engineer/DevOps Engineer**. </br>
 - 🌱  I’m currently learning Node.js and Python to get master certificate! </br>
 - 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/damian-gry%C5%84-5a92ba155/)</br>
-- 📝  Checkout my (soon) [resume](https://drive.google.com/) </br>
+- 📝  Checkout my [resume](https://bit.ly/2PkebDJ) </br>
 - 🤝  I’m looking to collaborate on interesting projects :)</br>
 
 #### Stay awesome!
